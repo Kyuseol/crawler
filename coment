@@ -6,7 +6,7 @@ https://github.com/powerwarez/crawler.git
 
 간단한 설명을 첨부하겠습니다.
 
-
+webdriver_manager 도 설치
 
 pip install selenium beautifulsoup4
 
